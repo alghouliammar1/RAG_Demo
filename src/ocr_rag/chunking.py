@@ -1,0 +1,1 @@
+"""Split extracted text into searchable chunks with source metadata."""

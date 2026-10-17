@@ -1,0 +1,1 @@
+"""OCR-powered retrieval-augmented generation learning project."""

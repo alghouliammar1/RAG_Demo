@@ -1,0 +1,1 @@
+"""Create embeddings and persist or search document chunks in a vector store."""
